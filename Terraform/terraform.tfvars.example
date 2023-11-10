@@ -1,0 +1,12 @@
+## VCENTER INFO ## 
+user            = ""
+password        = "" 
+vsphere_server  = ""  
+datacenter      = ""  
+cluster         = ""
+datastore       = "" 
+
+## VM INFO ##
+vm_user        = ""
+vm_pass        = ""
+ssh_key        = ""
